@@ -1,5 +1,5 @@
 # Artificial-Intellegence
-The repo contains code modules based on the concepts used widely AI/ML
+The repo contains code modules based on the concepts used widely in  AI/ML
 
 
 
