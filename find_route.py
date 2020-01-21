@@ -4,7 +4,7 @@
 import sys
 from queue import*
 flag=0;
-
+#maincode
 
 #opens input file and format it accordingly
 #mode is for selecting heuristicoption
